@@ -1,0 +1,14 @@
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.exe
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.deps.json
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.runtimeconfig.json
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.runtimeconfig.dev.json
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.dll
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.csproj.AssemblyReference.cache
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.AssemblyInfoInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.AssemblyInfo.cs
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.dll
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\PlayingWithVariables\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.genruntimeconfig.cache
